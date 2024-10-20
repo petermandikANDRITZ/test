@@ -1,9 +1,9 @@
 {
   "stands": [
     {
-      "id": "testoftest",
+      "id": "stand1",
       "key": 1,
-      "name": "Test of test",
+      "name": "stand 1",
       "button1": "Button 1 Text",
       "button1Url": "http://example.com/1",
       "button2": "Button 2 Text",
