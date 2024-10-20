@@ -39,6 +39,26 @@
       "button6Link": "http://example.com/6",
       "videoURL": "http://example.com/video",
       "background": "bg2"
+    },
+    {
+      "id": "page1729451861501",
+      "key": 1729451861501,
+      "type": "room",
+      "name": "helloTest",
+      "button1": "this is a test",
+      "button1Link": "this is a test",
+      "button2": "",
+      "button2Link": "",
+      "button3": "",
+      "button3Link": "",
+      "button4": "",
+      "button4Link": "",
+      "button5": "",
+      "button5Link": "",
+      "button6": "",
+      "button6Link": "",
+      "videoURL": "",
+      "background": "bg1"
     }
   ]
 }
