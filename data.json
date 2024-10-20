@@ -1,16 +1,12 @@
 {
-    "items": [
-        {
-            "name": "lele",
-            "value": "teste"
-        },
-        {
-            "name": "Item 2",
-            "value": "Value 2"
-        },
-        {
-            "name": "what the heck",
-            "value": "lele"
-        }
-    ]
+  "items": [
+    {
+      "name": "Item 2",
+      "value": "Value 2"
+    },
+    {
+      "name": "what the heck",
+      "value": "lele"
+    }
+  ]
 }
