@@ -23,9 +23,9 @@
       "logoUrl": "http://example.com/logo.jpg"
     },
     {
-      "id": "hellothisissupertest",
+      "id": "stand2",
       "key": 2,
-      "name": "Hello This is Super Test",
+      "name": "stand 2",
       "button1": "Button 1 Text",
       "button1Url": "http://example.com/1",
       "button2": "Button 2 Text",
