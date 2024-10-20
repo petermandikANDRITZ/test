@@ -1,0 +1,42 @@
+{
+    "stands": [
+        {
+            "id": "stand1",
+            "key": 1,
+            "name": "Stand 1",
+            "button1": "Button 1 Text",
+            "button1Link": "http://example.com/1",
+            "button2": "Button 2 Text",
+            "button2Link": "http://example.com/2",
+            "button3": "Button 3 Text",
+            "button3Link": "http://example.com/3",
+            "button4": "Button 4 Text",
+            "button4Link": "http://example.com/4",
+            "button5": "Button 5 Text",
+            "button5Link": "http://example.com/5",
+            "button6": "Button 6 Text",
+            "button6Link": "http://example.com/6",
+            "videoURL": "http://example.com/video",
+            "background": "bg1"
+        },
+        {
+            "id": "stand2",
+            "key": 2,
+            "name": "Stand 2",
+            "button1": "Button 1 Text",
+            "button1Link": "http://example.com/1",
+            "button2": "Button 2 Text",
+            "button2Link": "http://example.com/2",
+            "button3": "Button 3 Text",
+            "button3Link": "http://example.com/3",
+            "button4": "Button 4 Text",
+            "button4Link": "http://example.com/4",
+            "button5": "Button 5 Text",
+            "button5Link": "http://example.com/5",
+            "button6": "Button 6 Text",
+            "button6Link": "http://example.com/6",
+            "videoURL": "http://example.com/video",
+            "background": "bg2"
+        }
+    ]
+}
