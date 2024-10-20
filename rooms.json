@@ -43,6 +43,28 @@
       "image1Url": "http://example.com/image1.jpg",
       "image2Url": "http://example.com/image2.jpg",
       "logoUrl": "http://example.com/logo.jpg"
+    },
+    {
+      "id": "testynewroom",
+      "key": 3,
+      "name": "testy new room",
+      "button1": "",
+      "button1Url": "",
+      "button2": "",
+      "button2Url": "",
+      "button3": "",
+      "button3Url": "",
+      "button4": "",
+      "button4Url": "",
+      "button5": "",
+      "button5Url": "",
+      "button6": "",
+      "button6Url": "",
+      "videoURL": "",
+      "background": "bg1",
+      "image1Url": "",
+      "image2Url": "",
+      "logoUrl": ""
     }
   ]
 }
