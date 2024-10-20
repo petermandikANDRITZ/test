@@ -20,9 +20,9 @@
       "background": "bg1"
     },
     {
-      "id": "stand2",
+      "id": "hellothisissupertest",
       "key": 2,
-      "name": "Stand 2",
+      "name": "Hello This is Super Test",
       "button1": "Button 1 Text",
       "button1Link": "http://example.com/1",
       "button2": "Button 2 Text",
