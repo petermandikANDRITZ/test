@@ -18,9 +18,9 @@
       "button6Link": "http://example.com/6",
       "videoURL": "http://example.com/video",
       "background": "bg1",
-      "image1": "string",
-      "image2": "string",
-      "logo": "string"
+      "image1": "http://example.com/image1.jpg",
+      "image2": "http://example.com/image2.jpg",
+      "logo": "http://example.com/logo.jpg"
     },
     {
       "id": "hellothisissupertest",
@@ -40,9 +40,9 @@
       "button6Link": "http://example.com/6",
       "videoURL": "http://example.com/video",
       "background": "bg2",
-      "image1": "string",
-      "image2": "string",
-      "logo": "string"
+      "image1": "http://example.com/image1.jpg",
+      "image2": "http://example.com/image2.jpg",
+      "logo": "http://example.com/logo.jpg"
     }
   ]
 }
