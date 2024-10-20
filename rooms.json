@@ -17,7 +17,10 @@
       "button6": "Button 6 Text",
       "button6Link": "http://example.com/6",
       "videoURL": "http://example.com/video",
-      "background": "bg1"
+      "background": "bg1",
+      "image1": "string",
+      "image2": "string",
+      "logo": "string"
     },
     {
       "id": "hellothisissupertest",
@@ -36,7 +39,10 @@
       "button6": "Button 6 Text",
       "button6Link": "http://example.com/6",
       "videoURL": "http://example.com/video",
-      "background": "bg2"
+      "background": "bg2",
+      "image1": "string",
+      "image2": "string",
+      "logo": "string"
     }
   ]
 }
