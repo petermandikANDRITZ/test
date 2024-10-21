@@ -1,9 +1,9 @@
 {
   "rooms": [
     {
-      "id": "yes",
+      "id": "savingtest",
       "key": 1,
-      "name": "Yes",
+      "name": "Saving test",
       "button1": "Button 1 Text",
       "button1Url": "http://example.com/1",
       "button2": "Button 2 Text",
