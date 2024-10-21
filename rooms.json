@@ -1,9 +1,9 @@
 {
   "rooms": [
     {
-      "id": "room16",
+      "id": "hello",
       "key": 1,
-      "name": "Room 16",
+      "name": "Hello",
       "button1": "Button 1 Text",
       "button1Url": "http://example.com/1",
       "button2": "Button 2 Text",
