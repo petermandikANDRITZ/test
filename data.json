@@ -3,24 +3,24 @@
     "id": 3,
     "name": "testeer",
     "type": "1",
-    "url": "",
+    "url": "testeer"
   },
   {
     "id": 1729586574765,
     "name": "hello",
     "type": "room",
-    "url": "",
+    "url": "hello"
   },
   {
     "id": 1729587645234,
     "name": "test",
     "type": "room",
-    "url": "",
+    "url": "test"
   },
   {
     "id": 1729596087581,
     "name": "Testfrommobile",
     "type": "Room",
-    "url": "",
+    "url": "Testfrommobile"
   }
 ]
