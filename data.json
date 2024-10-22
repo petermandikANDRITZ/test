@@ -2,16 +2,16 @@
   {
     "id": 3,
     "name": "testeer",
-    "type": 1
+    "type": "1"
   },
   {
     "id": 1729586574765,
     "name": "hello",
-    "type": 2
+    "type": "2"
   },
   {
     "id": 1729587645234,
     "name": "test",
-    "type": 5
+    "type": "5"
   }
 ]
