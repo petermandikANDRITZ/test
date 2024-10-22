@@ -69,18 +69,5 @@
     "name": "new super test",
     "type": "stand",
     "url": "new-super-test"
-  },
-  {
-    "id": 1729610166453,
-    "name": "test super awesome next",
-    "type": "hulu",
-    "url": "test-super-awesome-next",
-    "key": 1729610166453,
-    "button1text": "Button Text",
-    "button1url": "https://example.com",
-    "iframe": "https://example.com",
-    "image1url": "https://example.com/image1.jpg",
-    "image2url": "https://example.com/image2.jpg",
-    "logoUrl": "https://example.com/logo.jpg"
   }
 ]
