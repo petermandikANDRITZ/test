@@ -2,9 +2,11 @@
   {
     "id": 3,
     "name": "lel"
+    "type": 1
   },
   {
     "id": 1729586574765,
     "name": "hello"
+    "type": 2
   }
 ]
