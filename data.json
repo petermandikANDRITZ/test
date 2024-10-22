@@ -128,5 +128,11 @@
     "image1url": "https://example.com/image1-10.jpg",
     "image2url": "https://example.com/image2-10.jpg",
     "logoUrl": "https://example.com/logo10.jpg"
+  },
+  {
+    "id": 1729609450979,
+    "name": "Test of spaces 55",
+    "type": "stand",
+    "url": "test-of-spaces-55"
   }
 ]
