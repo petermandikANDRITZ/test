@@ -2,21 +2,25 @@
   {
     "id": 3,
     "name": "testeer",
-    "type": "1"
+    "type": "1",
+    "URL": "",
   },
   {
     "id": 1729586574765,
     "name": "hello",
-    "type": "room"
+    "type": "room",
+    "URL": "",
   },
   {
     "id": 1729587645234,
     "name": "test",
-    "type": "room"
+    "type": "room",
+    "URL": "",
   },
   {
     "id": 1729596087581,
     "name": "Testfrommobile",
-    "type": "Room"
+    "type": "Room",
+    "URL": "",
   }
 ]
