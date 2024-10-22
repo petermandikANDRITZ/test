@@ -3,60 +3,130 @@
     "id": 3,
     "name": "testeer",
     "type": "1",
-    "url": "testeer"
+    "url": "testeer",
+    "key": 1,
+    "button1text": "Button 1",
+    "button1url": "https://example.com/button1",
+    "iframe": "https://example.com/iframe",
+    "image1url": "https://example.com/image1.jpg",
+    "image2url": "https://example.com/image2.jpg",
+    "logoUrl": "https://example.com/logo.jpg"
   },
   {
     "id": 1729586574765,
     "name": "hello",
     "type": "room",
-    "url": "hello"
+    "url": "hello",
+    "key": 2,
+    "button1text": "Button 2",
+    "button1url": "https://example.com/button2",
+    "iframe": "https://example.com/iframe2",
+    "image1url": "https://example.com/image1-2.jpg",
+    "image2url": "https://example.com/image2-2.jpg",
+    "logoUrl": "https://example.com/logo2.jpg"
   },
   {
     "id": 1729587645234,
     "name": "test",
     "type": "room",
-    "url": "test"
+    "url": "test",
+    "key": 3,
+    "button1text": "Button 3",
+    "button1url": "https://example.com/button3",
+    "iframe": "https://example.com/iframe3",
+    "image1url": "https://example.com/image1-3.jpg",
+    "image2url": "https://example.com/image2-3.jpg",
+    "logoUrl": "https://example.com/logo3.jpg"
   },
   {
     "id": 1729596087581,
     "name": "Testfrommobile",
     "type": "Room",
-    "url": "Testfrommobile"
+    "url": "Testfrommobile",
+    "key": 4,
+    "button1text": "Button 4",
+    "button1url": "https://example.com/button4",
+    "iframe": "https://example.com/iframe4",
+    "image1url": "https://example.com/image1-4.jpg",
+    "image2url": "https://example.com/image2-4.jpg",
+    "logoUrl": "https://example.com/logo4.jpg"
   },
   {
     "id": 1729596087582,
     "name": "item5",
     "type": "type5",
-    "url": "item5"
+    "url": "item5",
+    "key": 5,
+    "button1text": "Button 5",
+    "button1url": "https://example.com/button5",
+    "iframe": "https://example.com/iframe5",
+    "image1url": "https://example.com/image1-5.jpg",
+    "image2url": "https://example.com/image2-5.jpg",
+    "logoUrl": "https://example.com/logo5.jpg"
   },
   {
     "id": 1729596087583,
     "name": "item6",
     "type": "type6",
-    "url": "item6"
+    "url": "item6",
+    "key": 6,
+    "button1text": "Button 6",
+    "button1url": "https://example.com/button6",
+    "iframe": "https://example.com/iframe6",
+    "image1url": "https://example.com/image1-6.jpg",
+    "image2url": "https://example.com/image2-6.jpg",
+    "logoUrl": "https://example.com/logo6.jpg"
   },
   {
     "id": 1729596087584,
     "name": "item7",
     "type": "type7",
-    "url": "item7"
+    "url": "item7",
+    "key": 7,
+    "button1text": "Button 7",
+    "button1url": "https://example.com/button7",
+    "iframe": "https://example.com/iframe7",
+    "image1url": "https://example.com/image1-7.jpg",
+    "image2url": "https://example.com/image2-7.jpg",
+    "logoUrl": "https://example.com/logo7.jpg"
   },
   {
     "id": 1729596087585,
     "name": "item8",
     "type": "type8",
-    "url": "item8"
+    "url": "item8",
+    "key": 8,
+    "button1text": "Button 8",
+    "button1url": "https://example.com/button8",
+    "iframe": "https://example.com/iframe8",
+    "image1url": "https://example.com/image1-8.jpg",
+    "image2url": "https://example.com/image2-8.jpg",
+    "logoUrl": "https://example.com/logo8.jpg"
   },
   {
     "id": 1729596087586,
     "name": "item9",
     "type": "type9",
-    "url": "item9"
+    "url": "item9",
+    "key": 9,
+    "button1text": "Button 9",
+    "button1url": "https://example.com/button9",
+    "iframe": "https://example.com/iframe9",
+    "image1url": "https://example.com/image1-9.jpg",
+    "image2url": "https://example.com/image2-9.jpg",
+    "logoUrl": "https://example.com/logo9.jpg"
   },
   {
     "id": 1729596087587,
     "name": "item10",
     "type": "type10",
-    "url": "item10"
+    "url": "item10",
+    "key": 10,
+    "button1text": "Button 10",
+    "button1url": "https://example.com/button10",
+    "iframe": "https://example.com/iframe10",
+    "image1url": "https://example.com/image1-10.jpg",
+    "image2url": "https://example.com/image2-10.jpg",
+    "logoUrl": "https://example.com/logo10.jpg"
   }
 ]
