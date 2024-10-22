@@ -13,5 +13,10 @@
     "id": 1729587645234,
     "name": "test",
     "type": "room"
+  },
+  {
+    "id": 1729592285965,
+    "name": "test from live environment",
+    "type": "stand"
   }
 ]
