@@ -26,19 +26,6 @@
     "logoUrl": "https://example.com/logo2.jpg"
   },
   {
-    "id": 1729587645234,
-    "name": "test",
-    "type": "room",
-    "url": "test",
-    "key": 3,
-    "button1text": "Button 3",
-    "button1url": "https://example.com/button3",
-    "iframe": "https://example.com/iframe3",
-    "image1url": "https://example.com/image1-3.jpg",
-    "image2url": "https://example.com/image2-3.jpg",
-    "logoUrl": "https://example.com/logo3.jpg"
-  },
-  {
     "id": 1729596087581,
     "name": "Testfrommobile",
     "type": "Room",
@@ -76,11 +63,5 @@
     "image1url": "https://example.com/image1-10.jpg",
     "image2url": "https://example.com/image2-10.jpg",
     "logoUrl": "https://example.com/logo10.jpg"
-  },
-  {
-    "id": 1729609983664,
-    "name": "test",
-    "type": "stand",
-    "url": "test"
   }
 ]
