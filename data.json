@@ -52,19 +52,6 @@
     "logoUrl": "https://example.com/logo4.jpg"
   },
   {
-    "id": 1729596087585,
-    "name": "item8",
-    "type": "type8",
-    "url": "item8",
-    "key": 8,
-    "button1text": "Button 8",
-    "button1url": "https://example.com/button8",
-    "iframe": "https://example.com/iframe8",
-    "image1url": "https://example.com/image1-8.jpg",
-    "image2url": "https://example.com/image2-8.jpg",
-    "logoUrl": "https://example.com/logo8.jpg"
-  },
-  {
     "id": 1729596087586,
     "name": "item9",
     "type": "type9",
