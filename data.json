@@ -56,9 +56,13 @@
     "name": "item10",
     "type": "library",
     "category": "quality",
-    "url": "item10",
-    "key": 10,
-    "iframe": "",
-    "logoUrl": "https://example.com/logo10.jpg"
+   "url": "item9",
+    "key": 9,
+    "button1text": "Button 9",
+    "button1url": "https://example.com/button9",
+    "iframe": "https://example.com/iframe9",
+    "image1url": "https://example.com/image1-9.jpg",
+    "image2url": "https://example.com/image2-9.jpg",
+    "logoUrl": "https://example.com/logo9.jpg"
   }
 ]
