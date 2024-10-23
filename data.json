@@ -36,9 +36,9 @@
   {
     "id": 1729596087581,
     "name": "Testfrommobile",
-    "type": "Room",
+    "type": "Roomies",
     "category": "training",
-    "url": "Testfrommobile",
+    "url": "testfrommobile",
     "key": 4,
     "button1text": "Button 4",
     "button1url": "https://example.com/button4",
