@@ -11,7 +11,10 @@
     "iframe": "https://example.com/iframe",
     "image1url": "https://example.com/image1.jpg",
     "image2url": "https://example.com/image2.jpg",
-    "logoUrl": "https://example.com/logo.jpg"
+    "logoUrl": "https://example.com/logo.jpg",
+    "background": 1,
+    "description": "A test item",
+    "keywords": "test, item"
   },
   {
     "id": 1729586574765,
@@ -25,7 +28,10 @@
     "iframe": "https://example.com/iframe2",
     "image1url": "https://example.com/image1-2.jpg",
     "image2url": "https://example.com/image2-2.jpg",
-    "logoUrl": "https://example.com/logo2.jpg"
+    "logoUrl": "https://example.com/logo2.jpg",
+    "background": 2,
+    "description": "Hello item",
+    "keywords": "hello, item"
   },
   {
     "id": 1729596087581,
@@ -39,7 +45,10 @@
     "iframe": "https://example.com/iframe4",
     "image1url": "https://example.com/image1-4.jpg",
     "image2url": "https://example.com/image2-4.jpg",
-    "logoUrl": "https://example.com/logo4.jpg"
+    "logoUrl": "https://example.com/logo4.jpg",
+    "background": 3,
+    "description": "Test from mobile",
+    "keywords": "test, mobile"
   },
   {
     "id": 1729596087586,
@@ -53,6 +62,9 @@
     "iframe": "https://example.com/iframe9",
     "image1url": "https://example.com/image1-9.jpg",
     "image2url": "https://example.com/image2-9.jpg",
-    "logoUrl": "https://example.com/logo9.jpg"
+    "logoUrl": "https://example.com/logo9.jpg",
+    "background": 4,
+    "description": "Item 9",
+    "keywords": "item, 9"
   }
 ]
