@@ -34,23 +34,6 @@
     "keywords": "hello, item"
   },
   {
-    "id": 1729596087581,
-    "name": "Testfrommobile",
-    "type": "Roomies",
-    "category": "training",
-    "url": "testfrommobile",
-    "key": 4,
-    "button1text": "Button 4",
-    "button1url": "https://example.com/button4",
-    "iframe": "https://example.com/iframe4",
-    "image1url": "https://example.com/image1-4.jpg",
-    "image2url": "https://example.com/image2-4.jpg",
-    "logoUrl": "https://example.com/logo4.jpg",
-    "background": 3,
-    "description": "Test from mobile",
-    "keywords": "test, mobile"
-  },
-  {
     "id": 1729596087586,
     "name": "item9",
     "type": "type9",
